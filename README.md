@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 Estudo JavaScript
 - 😄 Pronouns: ele/dele
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorcardoso-GG23)](https://github.com/Victorcardoso-GG23/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcardosocunha)](https://github.com/victorcardosocunha/github-readme-stats)
