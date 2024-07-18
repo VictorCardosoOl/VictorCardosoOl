@@ -1,4 +1,4 @@
-## Oiii eu sou o Victor Cardoso, estudante de programação e tecnologia!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Oiii eu sou o Victor Cardoso, estudante de programação e tecnologia!
 
 
 <div style="display: inline_block"><br>
