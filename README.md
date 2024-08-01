@@ -16,6 +16,9 @@
   <a href="https://www.instagram.com/hi.chicocdo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+
+ ## 📚 GitHub Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cypherm0nk&theme=soft-green&hide_border=true&card_width=100)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=100&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
 <p align="center">
   <a>
