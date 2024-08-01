@@ -18,7 +18,7 @@
 </div>
 
 
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=80&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=80&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
 <p align="center">
   <a>
   <img height=160  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCardosoOl&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
