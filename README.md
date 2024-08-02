@@ -1,7 +1,8 @@
 
 <!-- Barra Animada -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=81F7F3&reversal=false">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=30&&v&width=1000&lines=Oii,+tudo+bem?+Me+chamo+Victor+Cardoso+!!!!"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img width="90%" src="https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=30&&v&width=1000&lines=Oii,+tudo+bem?+Me+chamo+Victor+Cardoso+!!!!"> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Sou estudante de Engenharia da Computação.
 
 
