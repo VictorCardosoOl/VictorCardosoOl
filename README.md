@@ -22,7 +22,7 @@
 </div>
 
 
-<img height=192  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCardosoOl&layout=compact&theme=shadow_green&hide_border=true&title_color=81F7F3&icon_color=81F7F3&text_color=A7F5AA&bg_color=000000" /> <img height=192  src="https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=100&title_color=81F7F3&icon_color=81F7F3&text_color=A7F5AA&bg_color=000000"/>
+ <img height=192  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCardosoOl&layout=compact&theme=shadow_green&hide_border=true&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000" />  <img height=192  src="https://github-readme-stats.vercel.app/api?username=VictorCardosoOl&show_icons=true&hide_border=true&card_width=100&title_color=81F7F3&icon_color=81F7F3&text_color=D8D8D8&bg_color=000000"/>
 
 <!--<p align="center">
   <a href="https://github.com/rwigna/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora%20Front-End%20;Sejam%20%20Bem-Vindos%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
