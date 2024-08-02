@@ -38,14 +38,13 @@
 import Desenvolvedor from 'Wigna(uigna)';
 
 class SobreMim extends Desenvolvedor {
-  nome = 'Marcone Silva de Brito';
-  idade = '39 anos';
-  local = 'Montes Claros-MG, Brasil 🔰';
-  area = 'Estudante de Sistema de Informação 👨‍🎓
-  - Hoje estou no 7º Período.
-  Já realizei vários trabalhos voluntários.
+  nome = 'Victor Cardoso Cunha';
+  idade = '395 anos';
+  local = 'São Paulo-Sp, Brasil 🔰';
+  area = 'Estudante de Engenharia da Computação 👨‍🎓
+  - Hoje estou no 6º semestre.
   Estou sempre em busca de novos desafios 🚀';
-  hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
+  hobby = 'Adoro ler e fotografar 🚵';
 }
 
 class Skills extends Desenvolvedor {
