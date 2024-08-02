@@ -1,8 +1,8 @@
 
 <!-- Barra Animada -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&color=81F7F3&reversal=false">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=34&&v&width=1000&lines=Oii,+tudo+bem?+Me+chamo+Victor+Cardoso)](https://git.io/typing-svg)
+<!--Emoji de gato-->
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=34&&v&width=1000&lines=Oii,+tudo+bem?+Me+chamo+Victor+Cardoso)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Oiii eu sou o Victor Cardoso, estudante de programação e tecnologia!
 
