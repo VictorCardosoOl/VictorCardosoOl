@@ -1,5 +1,5 @@
 
-<!-- Barra Animada -->
+<!-- Barrjja Animada -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=81F7F3&section=header">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=30&&v&width=1000&lines=Oii,+tudo+bem?+Me+chamo+Victor+Cardoso+!!!!"> 
 
